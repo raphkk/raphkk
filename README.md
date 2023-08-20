@@ -15,4 +15,8 @@ Hello,
 
 ⚡ Fun fact: I have always been afraid to code because I thought i wasn't good enough. I was wrong! This is just the beginning of a long dream.
 
+🫠 Something i wish i could change from the past - Learning to use Git and Github early in my learning path so i could showcase my progress from day one! 
+
+
+
 
